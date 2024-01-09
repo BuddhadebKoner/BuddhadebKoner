@@ -20,6 +20,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![giphy (2)](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/f195ca2d-97da-4817-a2c6-621ed3ea2010)
+
+
 
 # 📊 GitHub Stats:
 
