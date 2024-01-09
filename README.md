@@ -78,6 +78,9 @@ GitHub Galaxy Stats:</h2>
   <a href="#" target="_blank">
     <img src="https://cdn.pixabay.com/animation/2022/10/30/18/26/18-26-48-450_512.gif" alt="Behance" width="80" height="80" style="border-radius: 50%">
   </a>&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://i.imgur.com/kG0S16m.gif" alt="Behance" width="80" height="80" style="border-radius: 50%">
+  </a>&nbsp;
   </div>
 
 <h2>
