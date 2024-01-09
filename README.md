@@ -7,6 +7,7 @@
 
 
 ## 🌐 Socials:
+![giphy](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/b6e253f3-9a02-4235-9a75-1a9eb2fe3b18)
 
 
 # 💻 Tech Stack:
