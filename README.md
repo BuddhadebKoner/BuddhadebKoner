@@ -39,7 +39,7 @@ Skill :
  Current Project:</h2>
 
 <p align="center">
-  <img src="https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/e7d5b933-2b54-447b-bb12-c6ef8d089378" alt="GIF" width="100%" height="100%">
+  <img src="https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/e7d5b933-2b54-447b-bb12-c6ef8d089378" alt="GIF" width="60%" height="50%">
 </p>
 
 <p align="center">
