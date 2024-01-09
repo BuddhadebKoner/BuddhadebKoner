@@ -60,10 +60,9 @@ GitHub Galaxy Stats:</h2>
 
 <h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Social Media::
 </h2>
-
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xvXIsfgU4mByBBb8gA9P7g.gif" alt="Behance" width="50%" height="100%">
-<div>
+<div align="center">
   <a href="#" target="_blank">
     <img src="https://giffiles.alphacoders.com/144/14482.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
   </a>
