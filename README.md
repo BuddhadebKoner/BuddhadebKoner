@@ -35,7 +35,7 @@
   Currently working on a Food Delivery website, focusing on the frontend. Check it out here and make a clone:
    &nbsp;
   <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp.git" target="_blank">
-    <img alt="Clone" src="https://img.shields.io/badge/Clone-9cf?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Clone" src="https://img.shields.io/badge/Clone-9cf?style=for-the-badge&logo=github&logoColor=black">
   </a>
 </p>
 
