@@ -10,7 +10,7 @@
   ⚡  &nbsp; Fun fact Follow me now
 </h3>
 
-## 🌐 Sosal Media :
+## 🌐 Wroking On :
 ![giphy (1)](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/e7d5b933-2b54-447b-bb12-c6ef8d089378)
 
 
