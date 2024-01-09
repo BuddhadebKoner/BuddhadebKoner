@@ -1,7 +1,9 @@
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/153c51bd-8c5c-4942-b2de-ebf41078793c)
 
 
-🔭 Perceiving B Tech Computer science and engineering<br>👯 I’m looking to collaborate on Database languages<br>🤝 I’m looking for help with you<br>🌱 I’m currently learning Python web development<br>💬 Ask me about Content creation<br>⚡ Fun fact Follow me now
+<h1>
+  🔭 Perceiving B Tech Computer science and engineering<br>👯 I’m looking to collaborate on Database languages<br>🤝 I’m looking for help with you<br>🌱 I’m currently learning Python web development<br>💬 Ask me about Content creation<br>⚡ Fun fact Follow me now
+</h1>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jeet.koner.36) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ishow_code/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/buddhadeb-koner-8501b3231/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/buddhadeb_koner) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@IShowCode) 
