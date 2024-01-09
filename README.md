@@ -22,7 +22,7 @@ Skill :
 <div align="center">
 <img src="https://i.gifer.com/origin/c7/c7c4d04532df1ed39820d39adf2626f9_w200.gif" alt="Behance" width="50%" height="100%">
 </div>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   &nbsp; 
@@ -63,7 +63,7 @@ GitHub Galaxy Stats:</h2>
 </h2>
 
 <p align="center">
-<img src="https://i.gifer.com/HOnX.gif" alt="Behance" width="100%" height="100%">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xvXIsfgU4mByBBb8gA9P7g.gif" alt="Behance" width="100%" height="100%">
 
   <div align ="center">
   <a href="#" target="_blank">
@@ -85,7 +85,7 @@ GitHub Galaxy Stats:</h2>
 Future Plan :</h2>
 
   <p align="center">
-<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952y1brntcie1pjukurajwrhsbotvjiaxppgig65wnw&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Behance" width="50%" height="10%">
+<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952y1brntcie1pjukurajwrhsbotvjiaxppgig65wnw&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Behance" width="20%" height="10%">
 
 
 </p>
