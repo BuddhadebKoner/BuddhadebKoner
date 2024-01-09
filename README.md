@@ -2,9 +2,9 @@
 
 ![Profile Banner](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/153c51bd-8c5c-4942-b2de-ebf41078793c)
 
-<h2 align="center">👋 Hi, I'm Buddhadeb Koner!</h2>
+<h2>👋 Hi, I'm Buddhadeb Koner!</h2>
 
-<h3>
+<h3 align="center">
   🚀 Perceiving B Tech in Computer Science and Engineering<br>
   👯 Looking to collaborate on Database languages<br>
   🤝 Open to collaboration and learning from you<br>
