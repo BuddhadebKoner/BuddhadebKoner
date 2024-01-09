@@ -9,7 +9,10 @@
 
 
 ## 🌐 Socials:
-  <a>hi</a>
+  <a>
+![giphy](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/58615ce6-0c1b-4a78-add5-224fb87e6a15)
+
+  </a>
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
