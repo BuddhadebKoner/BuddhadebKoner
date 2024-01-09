@@ -4,7 +4,8 @@
 <h3>
   🔭 &nbsp; Perceiving B Tech Computer science and engineering<br>
   👯 &nbsp; I’m looking to collaborate on Database languages<br>
-  🤝 &nbsp; I’m looking for help with you<br>🌱 I’m currently learning Python web development<br>
+  🤝 &nbsp; I’m looking for help with you<br>
+  🌱 &nbsp; I’m currently learning Python web development<br>
   💬 &nbsp; Ask me about Content creation<br>⚡ Fun fact Follow me now
 </h3>
 
