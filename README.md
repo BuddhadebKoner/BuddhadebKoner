@@ -8,7 +8,10 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+
 # 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 ![](https://github-readme-stats.vercel.app/api?username=Buddhadeb Koner&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Buddhadeb Koner&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhadeb Koner&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
