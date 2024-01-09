@@ -59,7 +59,7 @@ GitHub Galaxy Stats:</h2>
 </p>
 
 
-<h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%" >&nbsp;Sosal Media:
+<h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%" >&nbsp;Social Media::
 </h2>
 
 <p align="center">
