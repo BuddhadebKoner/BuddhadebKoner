@@ -10,19 +10,17 @@
   ⚡  &nbsp; Fun fact Follow me now
 </h3>
 
-## 🌐 Wroking On :
-![giphy (1)](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/e7d5b933-2b54-447b-bb12-c6ef8d089378)
-![Screenshot from 2024-01-09 12-17-02](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/27052449-854c-4231-85bd-0f2aa06e5f22)
-
-
-
-
 # 💻 SKILLS :
 ![giphy (2)](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/f195ca2d-97da-4817-a2c6-621ed3ea2010) <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp; 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+
+
+## 🌐 Wroking On :
+![giphy (1)](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/e7d5b933-2b54-447b-bb12-c6ef8d089378)
+![Screenshot from 2024-01-09 12-17-02](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/27052449-854c-4231-85bd-0f2aa06e5f22)
 
 
 
