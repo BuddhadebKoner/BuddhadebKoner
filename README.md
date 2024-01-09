@@ -86,7 +86,7 @@ GitHub Galaxy Stats:</h2>
 Future Plan :</h2>
 
   <p align="center">
-<img src="https://i.gifer.com/V6Ts.gif" alt="Behance" width="80%" height="10%">
+<img src="https://i.gifer.com/36GJ.gif" alt="Behance" width="80%" height="10%">
 
 
 </p>
