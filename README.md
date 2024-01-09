@@ -64,17 +64,17 @@ GitHub Galaxy Stats:</h2>
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xvXIsfgU4mByBBb8gA9P7g.gif" alt="Behance" width="50%" height="100%">
 <div align="center">
   <a href="#" target="_blank">
-    <img src="https://giffiles.alphacoders.com/144/14482.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />  &nbsp;
-  </a>
+    <img src="https://giffiles.alphacoders.com/144/14482.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" /> 
+  </a>&nbsp;
   <a href="#" target="_blank">
     <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
-  </a>  &nbsp;
+  </a>&nbsp;
   <a href="#" target="_blank">
     <img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
-  </a>  &nbsp;
+  </a>&nbsp;
   <a href="#" target="_blank">
     <img src="https://cdn.pixabay.com/animation/2022/10/30/18/26/18-26-48-450_512.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
-  </a>  &nbsp;
+  </a>&nbsp;
   <a href="#" target="_blank">
     <img src="https://i.imgur.com/kG0S16m.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
   </a>
