@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/153c51bd-8c5c-4942-b2de-ebf41078793c)
 
 
