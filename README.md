@@ -33,7 +33,7 @@
 
 <p align="center">
   Currently working on a Food Delivery website, focusing on the frontend. Check it out here and make a clone:
-  
+   &nbsp;
   <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp.git" target="_blank">
     <img alt="Clone" src="https://img.shields.io/badge/Clone-9cf?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -44,7 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuddhadebKoner&theme=radical&hide_border=false" alt="GitHub Streak Stats">
- &nbsp;
+<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhadebKoner&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
