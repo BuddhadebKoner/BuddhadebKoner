@@ -14,7 +14,6 @@
 </h3>
 
 <h2>💻 Skills:</h2>
-
 <p align="center">
   <img src="https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/f195ca2d-97da-4817-a2c6-621ed3ea2010" alt="GIF" width="400">
 </p>
