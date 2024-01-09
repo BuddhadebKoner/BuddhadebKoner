@@ -18,11 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BuddhadebKoner&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Buddhadeb Koner&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Buddhadeb Koner&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
