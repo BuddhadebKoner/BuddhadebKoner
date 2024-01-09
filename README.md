@@ -14,13 +14,6 @@
 </h3>
 
 <h2>💻 Skills:</h2>
-<p align="center">
-  Currently working on a Food Delivery website, focusing on the frontend. Check it out here & make a clone:
-  <br>
-  <code>git clone https://github.com/BuddhadebKoner/FoodDeliveryWebApp.git</code>
-  <br>
-  <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp">Check it out</a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
