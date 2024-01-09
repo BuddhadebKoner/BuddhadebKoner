@@ -63,7 +63,7 @@ GitHub Galaxy Stats:</h2>
 </h2>
 
 <p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xvXIsfgU4mByBBb8gA9P7g.gif" alt="Behance" width="100%" height="100%">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xvXIsfgU4mByBBb8gA9P7g.gif" alt="Behance" width="50%" height="100%">
 
   <div align ="center">
   <a href="#" target="_blank">
