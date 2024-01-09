@@ -21,22 +21,10 @@
 ## 🌐 Wroking On :
 ![giphy (1)](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/e7d5b933-2b54-447b-bb12-c6ef8d089378)
 # Currently working on a Food Delivery website, only the frontend part. Please check the repository.
-[https://github.com/BuddhadebKoner/FoodDeliveryWebApp]
-
-# Your Project Title
-
-Description of your project goes here.
-
-## Installation
-
-To install this project, use the following commands:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
-npm install
-
-
+https://github.com/BuddhadebKoner/FoodDeliveryWebApp
+```
 
 # 📊 GitHub Stats:
 
