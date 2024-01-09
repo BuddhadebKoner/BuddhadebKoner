@@ -13,7 +13,7 @@
   ⚡ Fun fact: Follow me now for exciting updates!
 </h3>
 
-<h2 align="center">💻 Skills:</h2>
+<h2>💻 Skills:</h2>
 
 <p align="center">
   <img src="https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/f195ca2d-97da-4817-a2c6-621ed3ea2010" alt="GIF" width="400">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-<h2 align="center">🌐 Working On:</h2>
+<h2>🌐 Working On:</h2>
 
 <p align="center">
   <img src="https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/e7d5b933-2b54-447b-bb12-c6ef8d089378" alt="GIF" width="400">
@@ -41,7 +41,7 @@
   <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp">FoodDeliveryWebApp</a>
 </p>
 
-<h2 align="center">📊 GitHub Stats:</h2>
+<h2>📊 GitHub Stats:</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuddhadebKoner&theme=radical&hide_border=false" alt="GitHub Streak Stats">
