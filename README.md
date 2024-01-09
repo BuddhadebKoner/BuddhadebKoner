@@ -4,7 +4,7 @@
 
 <h2 align="center">👋 Hi, I'm Buddhadeb Koner!</h2>
 
-<h3 align="center">
+<h3>
   🚀 Perceiving B Tech in Computer Science and Engineering<br>
   👯 Looking to collaborate on Database languages<br>
   🤝 Open to collaboration and learning from you<br>
