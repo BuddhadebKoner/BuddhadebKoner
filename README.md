@@ -4,11 +4,12 @@
 <h3>
   🔭 Perceiving B Tech Computer science and engineering<br>👯 I’m looking to collaborate on Database languages<br>🤝 I’m looking for help with you<br>🌱 I’m currently learning Python web development<br>💬 Ask me about Content creation<br>⚡ Fun fact Follow me now
 </h3>
+![giphy (2)](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/d5d42972-4f17-438d-be7b-e99f0a62e92f)
 
 
 ## 🌐 Socials:
 ![giphy (1)](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/e7d5b933-2b54-447b-bb12-c6ef8d089378)
-![giphy (2)](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/26b65257-9e99-46ec-9382-936ea9705f70)
+
 
 
 # 💻 Tech Stack:
