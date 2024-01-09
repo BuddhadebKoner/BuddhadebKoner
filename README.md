@@ -58,30 +58,29 @@ GitHub Galaxy Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhadebKoner&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-
 <h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Social Media::
 </h2>
 
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xvXIsfgU4mByBBb8gA9P7g.gif" alt="Behance" width="50%" height="100%">
+<div style="display: flex; justify-content: space-between;">
+  <a href="#" target="_blank">
+    <img src="https://giffiles.alphacoders.com/144/14482.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn.pixabay.com/animation/2022/10/30/18/26/18-26-48-450_512.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://i.imgur.com/kG0S16m.gif" alt="Behance" width="80" height="80" style="border-radius: 50%;" />
+  </a>
+</div>
 
-  <div align ="center">
-  <a href="#" target="_blank">
-    <img src="https://giffiles.alphacoders.com/144/14482.gif" alt="Behance" width="80" height="80" style="border-radius: 50%" >
-  </a>&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Behance" width="80" height="80" style="border-radius: 50%">
-  </a>&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Behance" width="80" height="80" style="border-radius: 50%">
-  </a>&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://cdn.pixabay.com/animation/2022/10/30/18/26/18-26-48-450_512.gif" alt="Behance" width="80" height="80" style="border-radius: 50%">
-  </a>&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://i.imgur.com/kG0S16m.gif" alt="Behance" width="80" height="80" style="border-radius: 50%">
-  </a>&nbsp;
-  </div>
 
 <h2>
 <img src="https://i.gifer.com/fetch/w300-preview/16/16fc2aac71a2ac245f2d12bada2837da.gif" alt="Behance" width="18" height="18" style="border-radius: 50%" >&nbsp;
