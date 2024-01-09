@@ -49,14 +49,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhadebKoner&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=BuddhadebKoner&icon=0&color=0" alt="Visitor Count">
-</p>
 
-<h2>✨ Explore More:</h2>
+<h2>✨ Sosal Media:</h2>
 
 <p align="center">
-  🎨 Check out my creative side on [Behance](#) <br>
-  📝 Dive into the world of words on my [Blog](#) <br>
-  🌐 Connect with me on [LinkedIn](#)
+  <a href="#" target="_blank">
+    <img src="https://giffiles.alphacoders.com/144/14482.gif" alt="Behance" width="80" height="80" style="border-radius: 50%">&nbsp;
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Behance" width="80" height="80" style="border-radius: 50%">&nbsp;
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Behance" width="80" height="80" style="border-radius: 50%">&nbsp;
+  </a>
 </p>
+
