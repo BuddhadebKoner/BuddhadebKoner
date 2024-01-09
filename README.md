@@ -37,7 +37,7 @@
   Currently crafting a visually stunning Food Delivery website, with a laser focus on the frontend. Check it out and create your own delicious clone:
    &nbsp;
   <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp.git" target="_blank">
-    <img alt="Clone" src="https://img.shields.io/badge/Clone-9cf?style=for-the-badge&logo=github&logoColor=black">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="GITHUB">
   </a>
 </p>
 
