@@ -36,9 +36,9 @@
 
 <p align="center">
   Currently working on a Food Delivery website, focusing on the frontend. Check it out here & make clone :
-  ```bash
+ <code>
   https://github.com/BuddhadebKoner/FoodDeliveryWebApp.git
-  ```
+ <code/>
   <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp">check</a>
 </p>
 
