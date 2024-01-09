@@ -15,7 +15,11 @@
 
 <h2>💻 Skills:</h2>
 <p align="center">
-  <img src="https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/f195ca2d-97da-4817-a2c6-621ed3ea2010" alt="GIF" width="400">
+  Currently working on a Food Delivery website, focusing on the frontend. Check it out here & make a clone:
+  <br>
+  <code>git clone https://github.com/BuddhadebKoner/FoodDeliveryWebApp.git</code>
+  <br>
+  <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp">Check it out</a>
 </p>
 
 <p align="center">
