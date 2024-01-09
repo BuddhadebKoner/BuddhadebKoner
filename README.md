@@ -32,6 +32,15 @@
 </p>
 
 <p align="center">
+  Currently working on a Food Delivery website, focusing on the frontend. Check it out here and make a clone:
+  <br>
+  <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp.git" target="_blank">
+    <img alt="Clone" src="https://img.shields.io/badge/Clone-9cf?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+
+<p align="center">
   Currently working on a Food Delivery website, focusing on the frontend. Check it out here & make clone :
  <code>
   https://github.com/BuddhadebKoner/FoodDeliveryWebApp.git
