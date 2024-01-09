@@ -19,8 +19,10 @@
 <img src="https://i.gifer.com/41vs.gif" alt="Behance" width="18" height="18">&nbsp;
 Skill : 
 </h2>
-<img src="https://i.gifer.com/origin/c7/c7c4d04532df1ed39820d39adf2626f9_w200.gif" alt="Behance" width="100%" height="50%">
-<br><br>
+<div align="center">
+<img src="https://i.gifer.com/origin/c7/c7c4d04532df1ed39820d39adf2626f9_w200.gif" alt="Behance" width="30%" height="50%">
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
