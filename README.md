@@ -36,8 +36,7 @@
 
 <p align="center">
   Currently working on a Food Delivery website, focusing on the frontend. Check it out here:
-  <br>
-  <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp">FoodDeliveryWebApp</a>
+  <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp">check</a>
 </p>
 
 <h2>📊 GitHub Stats:</h2>
