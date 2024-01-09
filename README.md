@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 Perceiving B Tech Computer science and engineering<br>👯 I’m looking to collaborate on Database languages<br>🤝 I’m looking for help with you<br>🌱 I’m currently learning Python web development<br>💬 Ask me about Content creation<br>⚡ Fun fact Follow me now
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2Fdocs%2Fapi%2F&psig=AOvVaw1O1V5Wz8saGHpG0Mi7lANq&ust=1704864600523000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiX2eTJz4MDFQAAAAAdAAAAABAD 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jeet.koner.36) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ishow_code/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/buddhadeb-koner-8501b3231/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/buddhadeb_koner) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@IShowCode) 
