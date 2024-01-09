@@ -20,7 +20,7 @@
 Skill : 
 </h2>
 <div align="center">
-<img src="https://i.gifer.com/origin/c7/c7c4d04532df1ed39820d39adf2626f9_w200.gif" alt="Behance" width="50%" height="100">
+<img src="https://i.gifer.com/origin/c7/c7c4d04532df1ed39820d39adf2626f9_w200.gif" alt="Behance" width="50%" height="100%">
 </div>
 
 <p align="center">
