@@ -48,12 +48,12 @@ Skill :
   <img src="https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/e7d5b933-2b54-447b-bb12-c6ef8d089378" alt="GIF" width="60%" height="50%">
 </p>
 
-<p align="center">
+<h4 align="center">
   Currently crafting a visually stunning Food Delivery website, with a laser focus on the frontend. Check it out and create your own delicious clone:<br>
   <a href="https://github.com/BuddhadebKoner/FoodDeliveryWebApp.git" target="_blank">
       <img src="https://media4.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9525okovkb4adkp99i4cx9vesc4hfxzmgdmn5b2vd9w&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="GITHUB" width="40" height="40">
   </a>
-</p>
+</h4>
 
 <h2>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdmcnQ3aTF5cGRyYzBpbzFwODZrajhnZGp3M2hrZW5wY3g4M2V1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bmQBu3aSF0DxadphkG/giphy.gif" alt="Behance" width="18" height="18" style="border-radius: 50%" >&nbsp;
