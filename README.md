@@ -67,7 +67,7 @@ GitHub Galaxy Stats:</h2>
 
 </div>
 
-<h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Trophy :
+<h2><img src="https://media3.giphy.com/media/9xt1MUZqkneFiWrAAD/giphy.gif" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Trophy :
 </h2>
 <div>
 
@@ -97,7 +97,7 @@ GitHub Galaxy Stats:</h2>
   </a>
 </div>
 
-<h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Meme Time :
+<h2><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cbf3b54d-1a31-4f9c-b8a2-0e9b3ddf7ed2/deir20c-dcb74809-0d19-4fa8-b884-cc20a2394a58.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiZjNiNTRkLTFhMzEtNGY5Yy1iOGEyLTBlOWIzZGRmN2VkMlwvZGVpcjIwYy1kY2I3NDgwOS0wZDE5LTRmYTgtYjg4NC1jYzIwYTIzOTRhNTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SqMwLqABxO-_fln9LJIPoiOnCoxvTa7St1DKcuwmNww" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Meme Time :
 </h2>
 
 <div align="center">
