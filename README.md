@@ -27,9 +27,8 @@ Skill :
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,html,css,javascript,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,javascript,python,mysql,php,linux," />
 </div>
-
 
 <h2>
 <img src="https://media1.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif" alt="Behance" width="18" height="18" style="border-radius: 50%" >&nbsp;
