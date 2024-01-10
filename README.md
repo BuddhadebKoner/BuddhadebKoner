@@ -58,7 +58,13 @@ GitHub Galaxy Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhadebKoner&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-<h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Social Media::
+<h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Trophy :
+</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=BuddhadebKoner&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Social Media :
 </h2>
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*xvXIsfgU4mByBBb8gA9P7g.gif" alt="Behance" width="50%" height="100%">
@@ -80,14 +86,12 @@ GitHub Galaxy Stats:</h2>
   </a>
 </div>
 
+<h2><img src="https://media3.giphy.com/media/QYXnQmfLuoQt6yWk36/200w.gif?cid=82a1493bbyuja7ghjwaw6op9eu8zyqsp1fr7q3zz5e6oojt1&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Behance" width="18" height="18" style="border-radius: 50%;" >&nbsp;Meme Time :
+</h2>
 
-<h2>
-<img src="https://i.gifer.com/fetch/w300-preview/16/16fc2aac71a2ac245f2d12bada2837da.gif" alt="Behance" width="18" height="18" style="border-radius: 50%" >&nbsp;
-Future Plan :</h2>
-
-  <p align="center">
-<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952y1brntcie1pjukurajwrhsbotvjiaxppgig65wnw&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Behance" width="20%" height="10%">
-
+<div align="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+</div>
 
 </p>
 
