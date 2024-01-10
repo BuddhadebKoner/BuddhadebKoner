@@ -27,7 +27,7 @@ Skill :
 <br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c++,html,css,javascript,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,javascript,python,mysql" />
 </div>
 
 
