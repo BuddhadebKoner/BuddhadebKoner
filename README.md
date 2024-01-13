@@ -1,6 +1,7 @@
 <!-- Hey there! Welcome to my GitHub universe! -->
 
-![Profile Banner](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/153c51bd-8c5c-4942-b2de-ebf41078793c)
+![api-512d36c09662682717108a38bbb5c57d](https://github.com/BuddhadebKoner/BuddhadebKoner/assets/113292029/ce76891b-7cac-4d79-b637-59aa82867eb6)
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hello,+Future+Collaborator!;🇮🇳+i'am+Buddhadeb+Koner;" />
