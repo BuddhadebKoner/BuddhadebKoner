@@ -37,7 +37,10 @@ Skill :
 <h4 align="center">
   Currently crafting Python Basic to Advance :
 <br>
-<p align="center">Check the repo - [BasicPython](https://github.com/BuddhadebKoner/BasicPython)
+<p align="center">
+    
+Check the repo - [BasicPython](https://github.com/BuddhadebKoner/BasicPython)
+
 </p>
 
 <br>
