@@ -35,7 +35,7 @@ Skill :
 <img src="https://media1.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif" alt="Behance" width="18" height="18" style="border-radius: 50%" >&nbsp;
  Current Project:</h2>
 <h4 align="center">
-  ##Currently crafting Python Basic to Advance :
+## Currently crafting Python Basic to Advance :
 <br>
 <p align="center">
     
