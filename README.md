@@ -4,12 +4,15 @@
 </h1>
 <a href=#><img src="contributions.svg"></a>
 
+
+<!--
 <div align="center" style="margin-top: 20px;">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BuddhadebKoner&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhadebKoner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+-->
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,python,mysql,linux,git,figma,react,django,nodejs,mongo" />
