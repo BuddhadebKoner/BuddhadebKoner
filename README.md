@@ -4,7 +4,7 @@
 </h1>
 <!-- <a href=#><img src="contributions.svg"></a> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuddhadebKoner&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![https://buddhadebkoner.vercel.app/](https://github-readme-activity-graph.vercel.app/graph?username=BuddhadebKoner&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
