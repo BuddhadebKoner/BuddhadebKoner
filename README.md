@@ -17,5 +17,5 @@
 -->
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,java,appwrite,react,nodejs,expressjs,nextjs,mongo,npm,bun" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,appwrite,react,nodejs,express,nextjs,mongodb,npm,html,css,json,yaml,bash,tailwind,sass,redux,nestjs,prisma,postgres,mysql,redis,docker,githubactions,vercel,netlify,render,jwt,passport,bcrypt,argon2,helmet,cors,jest,cypress,playwright,webpack,vite,parcel,esbuild,rollupjs,babel,eslint,prettier,husky,materialui,chakraui,antdesign,framer,pino,morgan,dotenv,aws" />
 </div>
