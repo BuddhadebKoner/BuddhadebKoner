@@ -8,14 +8,14 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #953800;}
-.value {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.cc {fill: #c2cfde;}
+.key {fill: #ffa657;}
+.value {fill: #79c0ff;}
+.addColor {fill: #7ee787;}
+.delColor {fill: #ff7b72;}
+.cc {fill: #6e7681;}
 text, tspan {white-space: pre;}
-</style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="8"/>
+</style><rect width="985px" height="530px" fill="#0d1117" rx="8"/>
+<rect x="12" y="12" width="354" height="506" fill="#f6f8fa" rx="8"/>
 <text x="15" y="22" fill="#24292f" class="ascii" font-size="7.2px">
 <tspan x="15" y="22.00">-----:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
 <tspan x="15" y="30.05">---:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</tspan>
@@ -79,7 +79,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="496.95">:=+::...                            .                                 .:--#*--</tspan>
 <tspan x="15" y="505.00">.=*:.. ...                          .                               ..  .-*+=+</tspan>
 </text>
-<text x="390" y="30" fill="#24292f">
+<text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">buddhadeb@github</tspan> ---------------------------------------------
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Windows, Linux, Android</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">GitHub Age</tspan>:<tspan class="cc" id="age_data_dots"> .................. </tspan><tspan class="value" id="age_data">calculating...</tspan>
